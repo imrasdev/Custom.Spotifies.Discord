@@ -10,7 +10,7 @@
   --app-bar-size: 80px;
   --accent-hue: 0;
   --accent-saturation: 0%;
-  --accent-lightness: 0%;
+  --accent-lightness: 85%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-text-color: hsl(0,0%,6%);
   --alert-hue: 0;
