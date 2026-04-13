@@ -9,8 +9,8 @@
   --app-card-border-color: hsl(0,0%,14%);
   --app-bar-size: 80px;
   --accent-hue: 0;
-  --accent-saturation: 72.9%;
-  --accent-lightness: 42%;
+  --accent-saturation: 0%;
+  --accent-lightness: 0%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-text-color: hsl(0,0%,6%);
   --alert-hue: 0;
